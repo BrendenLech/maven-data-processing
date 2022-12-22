@@ -11,3 +11,7 @@ Produces maps of Mars' magnetic field using MAVEN magnetometer measurements from
 ### Magnetic Field Magnitude Map
 
 ![A map of the strength of Mars' magnetic field across its surface](https://raw.githubusercontent.com/BrendenLech/maven-data-processing/main/maps/Map%203%20-%20Magnitude%20Robinson%202017-2019%20400px.png)
+
+---
+
+The data used to generate these maps can be found [here](https://drive.google.com/file/d/1ArZHtqIzuT4il5indifeul4zeSl18uGA/view?usp=sharing).
