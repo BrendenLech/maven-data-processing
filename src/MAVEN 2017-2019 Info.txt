@@ -1,0 +1,37 @@
+#              ************************************
+#              *****    GLOBAL ATTRIBUTES    ******
+#              ************************************
+#
+#     ACKNOWLEDGMENT                  None
+#     DATA_TYPE                       insitu_kp-4sec > in situ data, key parameter 4-sec
+#     DESCRIPTOR                      Multi-Instrument
+#     DISCIPLINE                      Space Physics>Planetary Physics>Particles
+#     FILE_NAMING_CONVENTION          mvn_descriptor_datatype_yyyyMMdd
+#     INSTRUMENT_TYPE                 Electric Fields (space)
+#                                     Ephemeris/Attitude/Ancillary
+#                                     Magnetic Fields (space)
+#                                     Particles (space)
+#                                     Plasma and Solar Wind
+#                                     Radio and Plasma Waves (space)
+#     LINK_TEXT                       MAVEN Data Archive
+#                                     MAVEN home page
+#                                     MAVEN home page
+#                                     Document of MAVEN In Situ Key Parameters (Table 13 for the List of Variables)
+#     LINK_TITLE                      at PDS PPI Node
+#                                     at LASP
+#                                     at NASA.gov
+#                                     at LASP
+#     HTTP_LINK                       https://pds-ppi.igpp.ucla.edu/search/?sc=MAVEN&facet=SPACECRAFT_NAME
+#                                     http://lasp.colorado.edu/home/maven/
+#                                     https://www.nasa.gov/mission_pages/maven/main/index.html
+#                                     https://lasp.colorado.edu/maven/sdc/public/pages/datasets/SISs/maven_sis_kp_insitu_r05.pdf             
+#     LOGICAL_SOURCE                  mvn_insitu_kp-4sec
+#     LOGICAL_SOURCE_DESCRIPTION      MAVEN In-situ Key Parameters
+#     MISSION_GROUP                   MAVEN
+#     PI_NAME                         B.M. Jakosky
+#     PI_AFFILIATION                  LASP/U. Colorado
+#     PROJECT                         MAVEN
+#     RULES_OF_USE                    Open Data for Scientific Use
+#     SOURCE_NAME                     MAVEN>Mars Atmosphere and Volatile Evolution Mission
+#     TEXT                            Multi-Instrument
+#     TITLE                           MAVEN mag sunstate
